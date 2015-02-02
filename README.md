@@ -1,4 +1,4 @@
 # HelloWorld
-Here is my first c++ program on GitHub.
+Here is my first repository on GitHub.
 
           01.02.2015
